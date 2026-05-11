@@ -25,7 +25,7 @@
 3. روی آیکون افزونه کلیک کن و **Export** رو بزن تا فایل `cookies.txt` دانلود بشه.
 4. برو به **Settings → Secrets and variables → Actions**
 5. روی **New repository secret** کلیک کن.
-6. اسم Secret رو بذار: `YOUTUBE_COOKIES`
+6. اسم Secret رو بذار: d`YOUTUBE_COOKIES`
 7. محتوای کامل فایل `cookies.txt` رو توی بخش Secret پیست کن و ذخیره کن.
 
 > نکته: کوکی‌ها معمولا ۲-۳ ماه بعد expire میشن! پس اگه یه زمانی دیدید که ویدیوهاتون دانلود نشدن، احتمالا بخاطر کوکی باشه و نیاز دارید که مراحل بالا رو یکبار از نو انجام بدید و محتوای `YOUTUBE_COOKIES` رو آپدیت کنید
